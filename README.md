@@ -7,10 +7,6 @@ to uncover bike share usage patterns
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Goal to complete the Project 
-
-Needed to use the Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I also need to code to import the data and answer interesting questions about it by computing descriptive statistics. Plus, I make a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
-
 ##### The Goal to Complete the project:
 
                FIND: 
@@ -53,7 +49,5 @@ Needed to use the Python to explore data related to bike share systems for three
 * [numpy] - is a fundamental scientific computing.
 * [Pandas] - uses to clean, organize, convert, and merge the data.
 
-
-License
 ----
 
