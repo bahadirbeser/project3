@@ -9,7 +9,7 @@ to uncover bike share usage patterns
 
 ##### The Goal to Complete the project:
 
-               FIND: 
+               FIND: bikeshare usage patterns
    
 ### 1) Popular times of travel (i.e., occurs most often in the start time)
 
